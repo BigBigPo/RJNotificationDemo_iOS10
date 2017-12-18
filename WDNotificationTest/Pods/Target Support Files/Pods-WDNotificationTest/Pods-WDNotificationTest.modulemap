@@ -1,0 +1,6 @@
+framework module Pods_WDNotificationTest {
+  umbrella header "Pods-WDNotificationTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
